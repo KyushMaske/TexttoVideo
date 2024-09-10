@@ -1,0 +1,629 @@
+2024-07-08 16:30:00 - INFO - Processing text 1: Cows, known scientifically as Bos taurus, are gentle herbivorous mammals domesticated for their milk, meat, and other products
+2024-07-08 16:30:01 - INFO - Converting text to audio...
+2024-07-08 16:30:01 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 16:30:01 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 16:30:01 - INFO - Audio duration: 9.56
+2024-07-08 16:30:01 - INFO - Getting keywords from text...
+2024-07-08 16:30:01 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:30:01 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:30:06 - INFO - Keywords: [('cows', 0.5964), ('mammals', 0.553), ('herbivorous', 0.4792), ('taurus', 0.41), ('meat', 0.399)]
+2024-07-08 16:30:06 - INFO - Getting images for keyword: cows
+2024-07-08 16:30:06 - INFO - 20 images found
+2024-07-08 16:30:09 - INFO - Getting images for keyword: mammals
+2024-07-08 16:30:10 - INFO - 20 images found
+2024-07-08 16:30:14 - INFO - Getting images for keyword: herbivorous
+2024-07-08 16:30:14 - INFO - 20 images found
+2024-07-08 16:30:17 - INFO - Getting images for keyword: taurus
+2024-07-08 16:30:19 - INFO - 20 images found
+2024-07-08 16:30:23 - INFO - Images: ['./images/cows0.jpg', './images/cows1.jpg', './images/cows2.jpg', './images/mammals0.jpg', './images/mammals1.jpg', './images/mammals2.jpg', './images/herbivorous0.jpg', './images/herbivorous1.jpg', './images/herbivorous2.jpg', './images/taurus0.jpg', './images/taurus1.jpg', './images/taurus2.jpg']
+2024-07-08 16:30:24 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 16:30:24 - INFO - Processing text 2: They are typically large, with distinctive horns and a docile demeanor
+2024-07-08 16:30:25 - INFO - Converting text to audio...
+2024-07-08 16:30:25 - INFO - Audio duration: 5.1
+2024-07-08 16:30:25 - INFO - Getting keywords from text...
+2024-07-08 16:30:25 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:30:25 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:30:28 - INFO - Keywords: [('horns', 0.5647), ('demeanor', 0.4174), ('large', 0.3608), ('distinctive', 0.3273), ('typically', 0.2397)]
+2024-07-08 16:30:28 - INFO - Getting images for keyword: horns
+2024-07-08 16:30:29 - INFO - 20 images found
+2024-07-08 16:30:30 - WARNING - C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\PIL\Image.py:992: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+
+2024-07-08 16:30:31 - INFO - Getting images for keyword: demeanor
+2024-07-08 16:30:32 - INFO - 17 images found
+2024-07-08 16:30:35 - INFO - Images: ['./images/horns0.jpg', './images/horns1.jpg', './images/horns2.jpg', './images/demeanor0.jpg', './images/demeanor1.jpg', './images/demeanor2.jpg']
+2024-07-08 16:30:35 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 16:30:35 - INFO - Processing text 3: Cattle are important in agriculture worldwide, providing dairy products like milk, cheese, and butter, as well as meat such as beef
+2024-07-08 16:30:36 - INFO - Converting text to audio...
+2024-07-08 16:30:37 - INFO - Audio duration: 9.83
+2024-07-08 16:30:37 - INFO - Getting keywords from text...
+2024-07-08 16:30:37 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:30:37 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:30:40 - INFO - Keywords: [('cattle', 0.6242), ('agriculture', 0.4941), ('dairy', 0.494), ('beef', 0.4796), ('meat', 0.395)]
+2024-07-08 16:30:40 - INFO - Getting images for keyword: cattle
+2024-07-08 16:30:40 - INFO - 20 images found
+2024-07-08 16:30:43 - INFO - Getting images for keyword: agriculture
+2024-07-08 16:30:44 - INFO - 20 images found
+2024-07-08 16:30:47 - INFO - Getting images for keyword: dairy
+2024-07-08 16:30:47 - INFO - 20 images found
+2024-07-08 16:30:50 - INFO - Getting images for keyword: beef
+2024-07-08 16:30:50 - INFO - 20 images found
+2024-07-08 16:30:54 - INFO - Images: ['./images/cattle0.jpg', './images/cattle1.jpg', './images/cattle2.jpg', './images/agriculture0.jpg', './images/agriculture1.jpg', './images/agriculture2.jpg', './images/dairy0.jpg', './images/dairy1.jpg', './images/dairy2.jpg', './images/beef0.jpg', './images/beef1.jpg', './images/beef2.jpg']
+2024-07-08 16:30:55 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 16:30:55 - INFO - Processing text 4: They graze on grass and other vegetation, playing a crucial role in maintaining ecosystems by converting plant material into nutritious food products for humans
+2024-07-08 16:30:56 - INFO - Converting text to audio...
+2024-07-08 16:30:56 - INFO - Audio duration: 11.11
+2024-07-08 16:30:56 - INFO - Getting keywords from text...
+2024-07-08 16:30:56 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:30:56 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:30:59 - INFO - Keywords: [('vegetation', 0.6153), ('ecosystems', 0.5121), ('plant', 0.425), ('food', 0.4091), ('grass', 0.4081)]
+2024-07-08 16:30:59 - INFO - Getting images for keyword: vegetation
+2024-07-08 16:30:59 - INFO - 20 images found
+2024-07-08 16:31:02 - INFO - Getting images for keyword: ecosystems
+2024-07-08 16:31:03 - INFO - 20 images found
+2024-07-08 16:31:07 - INFO - Getting images for keyword: plant
+2024-07-08 16:31:08 - INFO - 20 images found
+2024-07-08 16:31:11 - INFO - Getting images for keyword: food
+2024-07-08 16:31:12 - INFO - 20 images found
+2024-07-08 16:31:16 - INFO - Getting images for keyword: grass
+2024-07-08 16:31:16 - INFO - 20 images found
+2024-07-08 16:31:19 - INFO - Images: ['./images/vegetation0.jpg', './images/vegetation1.jpg', './images/vegetation2.jpg', './images/ecosystems0.jpg', './images/ecosystems1.jpg', './images/ecosystems2.jpg', './images/plant0.jpg', './images/plant1.jpg', './images/plant2.jpg', './images/food0.jpg', './images/food1.jpg', './images/food2.jpg', './images/grass0.jpg', './images/grass1.jpg', './images/grass2.jpg']
+2024-07-08 16:31:20 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 16:31:20 - INFO - Processing text 5: Cows are also revered in various cultures and have been depicted in art and folklore throughout history
+2024-07-08 16:31:21 - INFO - Converting text to audio...
+2024-07-08 16:31:21 - INFO - Audio duration: 6.52
+2024-07-08 16:31:21 - INFO - Getting keywords from text...
+2024-07-08 16:31:21 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:31:21 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:31:25 - INFO - Keywords: [('cows', 0.615), ('folklore', 0.5069), ('cultures', 0.3727), ('depicted', 0.3171), ('revered', 0.2372)]
+2024-07-08 16:31:25 - INFO - Getting images for keyword: cows
+2024-07-08 16:31:25 - INFO - 20 images found
+2024-07-08 16:31:28 - INFO - Getting images for keyword: folklore
+2024-07-08 16:31:28 - INFO - 20 images found
+2024-07-08 16:31:31 - INFO - Images: ['./images/cows0.jpg', './images/cows1.jpg', './images/cows2.jpg', './images/folklore0.jpg', './images/folklore1.jpg', './images/folklore2.jpg']
+2024-07-08 16:31:32 - INFO - Video saved to: output_videos\video_5.mp4
+2024-07-08 16:31:34 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 16:31:35 - INFO - All audios merged into: output_videos\combined_audio.mp3
+2024-07-08 16:31:35 - INFO - All audios merged into: output_videos\combined_audio.mp3
+2024-07-08 16:34:35 - INFO - Logging is configured.
+2024-07-08 16:34:35 - INFO - Logging is configured.
+2024-07-08 16:37:37 - INFO - Logging is configured.
+2024-07-08 16:37:37 - INFO - Logging is configured.
+2024-07-08 16:40:24 - INFO - Logging is configured.
+2024-07-08 16:40:24 - INFO - Logging is configured.
+2024-07-08 16:40:24 - INFO - Processing text 1: Cows, known scientifically as Bos taurus, are gentle herbivorous mammals domesticated for their milk, meat, and other products
+2024-07-08 16:40:25 - INFO - Converting text to audio...
+2024-07-08 16:40:25 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 16:40:25 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 16:40:25 - INFO - Audio duration: 9.56
+2024-07-08 16:40:25 - INFO - Getting keywords from text...
+2024-07-08 16:40:25 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:40:25 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:40:29 - INFO - Keywords: [('cows', 0.5964), ('mammals', 0.553), ('herbivorous', 0.4792), ('taurus', 0.41), ('meat', 0.399)]
+2024-07-08 16:40:29 - INFO - Getting images for keyword: cows
+2024-07-08 16:40:30 - INFO - 20 images found
+2024-07-08 16:40:32 - INFO - Getting images for keyword: mammals
+2024-07-08 16:40:33 - INFO - 20 images found
+2024-07-08 16:40:39 - INFO - Getting images for keyword: herbivorous
+2024-07-08 16:40:40 - INFO - 20 images found
+2024-07-08 16:40:42 - INFO - Getting images for keyword: taurus
+2024-07-08 16:40:43 - INFO - 20 images found
+2024-07-08 16:40:44 - WARNING - C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\PIL\Image.py:992: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+
+2024-07-08 16:40:46 - INFO - Images: ['./images/cows0.jpg', './images/cows1.jpg', './images/cows2.jpg', './images/mammals0.jpg', './images/mammals1.jpg', './images/mammals2.jpg', './images/herbivorous0.jpg', './images/herbivorous1.jpg', './images/herbivorous2.jpg', './images/taurus0.jpg', './images/taurus1.jpg', './images/taurus2.jpg']
+2024-07-08 16:40:47 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 16:40:47 - INFO - Processing text 2: They are typically large, with distinctive horns and a docile demeanor
+2024-07-08 16:40:48 - INFO - Converting text to audio...
+2024-07-08 16:40:48 - INFO - Audio duration: 5.1
+2024-07-08 16:40:48 - INFO - Getting keywords from text...
+2024-07-08 16:40:48 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:40:48 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:40:51 - INFO - Keywords: [('horns', 0.5647), ('demeanor', 0.4174), ('large', 0.3608), ('distinctive', 0.3273), ('typically', 0.2397)]
+2024-07-08 16:40:51 - INFO - Getting images for keyword: horns
+2024-07-08 16:40:52 - INFO - 20 images found
+2024-07-08 16:40:55 - INFO - Getting images for keyword: demeanor
+2024-07-08 16:40:55 - INFO - 17 images found
+2024-07-08 16:40:58 - INFO - Images: ['./images/horns0.jpg', './images/horns1.jpg', './images/horns2.jpg', './images/demeanor0.jpg', './images/demeanor1.jpg', './images/demeanor2.jpg']
+2024-07-08 16:40:59 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 16:40:59 - INFO - Processing text 3: Cattle are important in agriculture worldwide, providing dairy products like milk, cheese, and butter, as well as meat such as beef
+2024-07-08 16:41:00 - INFO - Converting text to audio...
+2024-07-08 16:41:00 - INFO - Audio duration: 9.83
+2024-07-08 16:41:00 - INFO - Getting keywords from text...
+2024-07-08 16:41:00 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:41:00 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:41:02 - INFO - Keywords: [('cattle', 0.6242), ('agriculture', 0.4941), ('dairy', 0.494), ('beef', 0.4796), ('meat', 0.395)]
+2024-07-08 16:41:02 - INFO - Getting images for keyword: cattle
+2024-07-08 16:41:03 - INFO - 20 images found
+2024-07-08 16:41:05 - INFO - Getting images for keyword: agriculture
+2024-07-08 16:41:06 - INFO - 20 images found
+2024-07-08 16:41:08 - INFO - Getting images for keyword: dairy
+2024-07-08 16:41:09 - INFO - 20 images found
+2024-07-08 16:41:11 - INFO - Getting images for keyword: beef
+2024-07-08 16:41:11 - INFO - 20 images found
+2024-07-08 16:41:14 - INFO - Images: ['./images/cattle0.jpg', './images/cattle1.jpg', './images/cattle2.jpg', './images/agriculture0.jpg', './images/agriculture1.jpg', './images/agriculture2.jpg', './images/dairy0.jpg', './images/dairy1.jpg', './images/dairy2.jpg', './images/beef0.jpg', './images/beef1.jpg', './images/beef2.jpg']
+2024-07-08 16:41:15 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 16:41:15 - INFO - Processing text 4: They graze on grass and other vegetation, playing a crucial role in maintaining ecosystems by converting plant material into nutritious food products for humans
+2024-07-08 16:41:16 - INFO - Converting text to audio...
+2024-07-08 16:41:16 - INFO - Audio duration: 11.11
+2024-07-08 16:41:16 - INFO - Getting keywords from text...
+2024-07-08 16:41:16 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:41:16 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:41:19 - INFO - Keywords: [('vegetation', 0.6153), ('ecosystems', 0.5121), ('plant', 0.425), ('food', 0.4091), ('grass', 0.4081)]
+2024-07-08 16:41:19 - INFO - Getting images for keyword: vegetation
+2024-07-08 16:41:19 - INFO - 20 images found
+2024-07-08 16:41:22 - INFO - Getting images for keyword: ecosystems
+2024-07-08 16:41:22 - INFO - 20 images found
+2024-07-08 16:41:25 - INFO - Getting images for keyword: plant
+2024-07-08 16:41:26 - INFO - 20 images found
+2024-07-08 16:41:28 - INFO - Getting images for keyword: food
+2024-07-08 16:41:28 - INFO - 20 images found
+2024-07-08 16:41:31 - INFO - Getting images for keyword: grass
+2024-07-08 16:41:31 - INFO - 20 images found
+2024-07-08 16:41:34 - INFO - Images: ['./images/vegetation0.jpg', './images/vegetation1.jpg', './images/vegetation2.jpg', './images/ecosystems0.jpg', './images/ecosystems1.jpg', './images/ecosystems2.jpg', './images/plant0.jpg', './images/plant1.jpg', './images/plant2.jpg', './images/food0.jpg', './images/food1.jpg', './images/food2.jpg', './images/grass0.jpg', './images/grass1.jpg', './images/grass2.jpg']
+2024-07-08 16:41:35 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 16:41:35 - INFO - Processing text 5: Cows are also revered in various cultures and have been depicted in art and folklore throughout history
+2024-07-08 16:41:36 - INFO - Converting text to audio...
+2024-07-08 16:41:36 - INFO - Audio duration: 6.52
+2024-07-08 16:41:36 - INFO - Getting keywords from text...
+2024-07-08 16:41:36 - INFO - Use pytorch device_name: cpu
+2024-07-08 16:41:36 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 16:41:38 - INFO - Keywords: [('cows', 0.615), ('folklore', 0.5069), ('cultures', 0.3727), ('depicted', 0.3171), ('revered', 0.2372)]
+2024-07-08 16:41:38 - INFO - Getting images for keyword: cows
+2024-07-08 16:41:39 - INFO - 20 images found
+2024-07-08 16:41:42 - INFO - Getting images for keyword: folklore
+2024-07-08 16:41:42 - INFO - 20 images found
+2024-07-08 16:41:47 - INFO - Images: ['./images/cows0.jpg', './images/cows1.jpg', './images/cows2.jpg', './images/folklore0.jpg', './images/folklore1.jpg', './images/folklore2.jpg']
+2024-07-08 16:41:47 - INFO - Video saved to: output_videos\video_5.mp4
+2024-07-08 16:41:49 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 16:41:51 - INFO - All audios merged into: output_videos\combined_audio.mp3
+2024-07-08 16:41:51 - INFO - All audios merged into: output_videos\combined_audio.mp3
+2024-07-08 17:02:29 - INFO - Logging is configured.
+2024-07-08 17:02:29 - INFO - Logging is configured.
+2024-07-08 17:02:29 - INFO - Processing text 1: Personality deficiency is a complex and multifaceted issue that affects various aspects of an individual's life, from personal relationships to professional success
+2024-07-08 17:02:30 - INFO - Converting text to audio...
+2024-07-08 17:02:30 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:02:30 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:02:30 - INFO - Audio duration: 11.64
+2024-07-08 17:02:30 - INFO - Getting keywords from text...
+2024-07-08 17:02:30 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:02:30 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:02:35 - INFO - Keywords: [('personality', 0.5741), ('deficiency', 0.4816), ('relationships', 0.3203), ('individual', 0.2956), ('personal', 0.2819)]
+2024-07-08 17:02:46 - INFO - Images: ['./images/personality_0.jpg', './images/personality_1.jpg', './images/personality_2.jpg', './images/deficiency_0.jpg']
+2024-07-08 17:02:47 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 17:02:47 - INFO - Processing text 2: Understanding its causes, manifestations, and impacts is crucial for developing empathy and effective support mechanisms
+2024-07-08 17:02:48 - INFO - Converting text to audio...
+2024-07-08 17:02:48 - INFO - Audio duration: 8.41
+2024-07-08 17:02:48 - INFO - Getting keywords from text...
+2024-07-08 17:02:48 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:02:48 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:02:51 - INFO - Keywords: [('empathy', 0.694), ('support', 0.3781), ('manifestations', 0.3591), ('understanding', 0.3383), ('causes', 0.3179)]
+2024-07-08 17:02:56 - INFO - Images: ['./images/empathy_0.jpg', './images/empathy_1.jpg', './images/empathy_2.jpg']
+2024-07-08 17:02:56 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 17:02:56 - INFO - Processing text 3: Through therapeutic interventions, social support, and personal development, individuals can overcome the challenges associated with personality deficiencies and lead fulfilling, meaningful lives
+2024-07-08 17:02:57 - INFO - Converting text to audio...
+2024-07-08 17:02:58 - INFO - Audio duration: 13.55
+2024-07-08 17:02:58 - INFO - Getting keywords from text...
+2024-07-08 17:02:58 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:02:58 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:03:00 - INFO - Keywords: [('personality', 0.5021), ('interventions', 0.3888), ('therapeutic', 0.3884), ('overcome', 0.3591), ('deficiencies', 0.3538)]
+2024-07-08 17:03:07 - INFO - Images: ['./images/personality_0.jpg', './images/personality_1.jpg', './images/personality_2.jpg']
+2024-07-08 17:03:08 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 17:03:08 - INFO - Processing text 4: Addressing this issue requires a collective effort, emphasizing the importance of compassion, understanding, and proactive support for those affected
+2024-07-08 17:03:09 - INFO - Converting text to audio...
+2024-07-08 17:03:09 - INFO - Audio duration: 9.86
+2024-07-08 17:03:09 - INFO - Getting keywords from text...
+2024-07-08 17:03:09 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:03:09 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:03:12 - INFO - Keywords: [('compassion', 0.5441), ('support', 0.3444), ('collective', 0.3239), ('effort', 0.323), ('affected', 0.2505)]
+2024-07-08 17:03:21 - INFO - Images: ['./images/compassion_0.jpg', './images/compassion_1.jpg', './images/compassion_2.jpg']
+2024-07-08 17:03:22 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 17:03:23 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 17:07:57 - INFO - Logging is configured.
+2024-07-08 17:07:57 - INFO - Logging is configured.
+2024-07-08 17:07:57 - INFO - Processing text 1: Personality deficiency is a complex and multifaceted issue that affects various aspects of an individual's life, from personal relationships to professional success
+2024-07-08 17:07:58 - INFO - Converting text to audio...
+2024-07-08 17:07:58 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:07:58 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:07:58 - INFO - Audio duration: 11.64
+2024-07-08 17:07:58 - INFO - Getting keywords from text...
+2024-07-08 17:07:58 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:07:58 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:08:03 - INFO - Keywords: [('personality', 0.5741), ('deficiency', 0.4816), ('relationships', 0.3203), ('individual', 0.2956), ('personal', 0.2819)]
+2024-07-08 17:08:17 - INFO - Images: ['./images/personality_0.jpg', './images/personality_1.jpg', './images/personality_2.jpg', './images/deficiency_0.jpg']
+2024-07-08 17:08:18 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 17:08:18 - INFO - Processing text 2: Understanding its causes, manifestations, and impacts is crucial for developing empathy and effective support mechanisms
+2024-07-08 17:08:19 - INFO - Converting text to audio...
+2024-07-08 17:08:19 - INFO - Audio duration: 8.41
+2024-07-08 17:08:19 - INFO - Getting keywords from text...
+2024-07-08 17:08:19 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:08:19 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:08:22 - INFO - Keywords: [('empathy', 0.694), ('support', 0.3781), ('manifestations', 0.3591), ('understanding', 0.3383), ('causes', 0.3179)]
+2024-07-08 17:08:40 - INFO - Images: ['./images/empathy_0.jpg', './images/empathy_1.jpg', './images/empathy_2.jpg']
+2024-07-08 17:08:41 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 17:08:41 - INFO - Processing text 3: Through therapeutic interventions, social support, and personal development, individuals can overcome the challenges associated with personality deficiencies and lead fulfilling, meaningful lives
+2024-07-08 17:08:42 - INFO - Converting text to audio...
+2024-07-08 17:08:42 - INFO - Audio duration: 13.55
+2024-07-08 17:08:42 - INFO - Getting keywords from text...
+2024-07-08 17:08:42 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:08:42 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:08:44 - INFO - Keywords: [('personality', 0.5021), ('interventions', 0.3888), ('therapeutic', 0.3884), ('overcome', 0.3591), ('deficiencies', 0.3538)]
+2024-07-08 17:08:54 - INFO - Images: ['./images/personality_0.jpg', './images/personality_1.jpg', './images/personality_2.jpg']
+2024-07-08 17:08:55 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 17:08:55 - INFO - Processing text 4: Addressing this issue requires a collective effort, emphasizing the importance of compassion, understanding, and proactive support for those affected
+2024-07-08 17:08:56 - INFO - Converting text to audio...
+2024-07-08 17:08:56 - INFO - Audio duration: 9.86
+2024-07-08 17:08:56 - INFO - Getting keywords from text...
+2024-07-08 17:08:56 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:08:56 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:09:00 - INFO - Keywords: [('compassion', 0.5441), ('support', 0.3444), ('collective', 0.3239), ('effort', 0.323), ('affected', 0.2505)]
+2024-07-08 17:09:13 - INFO - Images: ['./images/compassion_0.jpg', './images/compassion_1.jpg', './images/compassion_2.jpg']
+2024-07-08 17:09:13 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 17:09:15 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 17:09:15 - INFO - Deleted: video_1.mp4
+2024-07-08 17:09:15 - INFO - Deleted: video_2.mp4
+2024-07-08 17:09:15 - INFO - Deleted: video_3.mp4
+2024-07-08 17:09:15 - INFO - Deleted: video_4.mp4
+2024-07-08 17:09:15 - INFO - Processing text 1: Personality deficiency is a complex and multifaceted issue that affects various aspects of an individual's life, from personal relationships to professional success
+2024-07-08 17:09:16 - INFO - Converting text to audio...
+2024-07-08 17:09:16 - INFO - Audio duration: 11.64
+2024-07-08 17:09:16 - INFO - Getting keywords from text...
+2024-07-08 17:09:16 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:09:16 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:09:19 - INFO - Keywords: [('personality', 0.5741), ('deficiency', 0.4816), ('relationships', 0.3203), ('individual', 0.2956), ('personal', 0.2819)]
+2024-07-08 17:09:32 - INFO - Images: ['./images/personality_0.jpg', './images/personality_1.jpg', './images/personality_2.jpg', './images/deficiency_0.jpg']
+2024-07-08 17:09:32 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 17:09:32 - INFO - Processing text 2: Understanding its causes, manifestations, and impacts is crucial for developing empathy and effective support mechanisms
+2024-07-08 17:09:33 - INFO - Converting text to audio...
+2024-07-08 17:09:34 - INFO - Audio duration: 8.41
+2024-07-08 17:09:34 - INFO - Getting keywords from text...
+2024-07-08 17:09:34 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:09:34 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:09:36 - INFO - Keywords: [('empathy', 0.694), ('support', 0.3781), ('manifestations', 0.3591), ('understanding', 0.3383), ('causes', 0.3179)]
+2024-07-08 17:09:43 - INFO - Images: ['./images/empathy_0.jpg', './images/empathy_1.jpg', './images/empathy_2.jpg']
+2024-07-08 17:09:43 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 17:09:43 - INFO - Processing text 3: Through therapeutic interventions, social support, and personal development, individuals can overcome the challenges associated with personality deficiencies and lead fulfilling, meaningful lives
+2024-07-08 17:09:44 - INFO - Converting text to audio...
+2024-07-08 17:09:45 - INFO - Audio duration: 13.55
+2024-07-08 17:09:45 - INFO - Getting keywords from text...
+2024-07-08 17:09:45 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:09:45 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:09:47 - INFO - Keywords: [('personality', 0.5021), ('interventions', 0.3888), ('therapeutic', 0.3884), ('overcome', 0.3591), ('deficiencies', 0.3538)]
+2024-07-08 17:09:54 - INFO - Images: ['./images/personality_0.jpg', './images/personality_1.jpg', './images/personality_2.jpg']
+2024-07-08 17:09:55 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 17:09:55 - INFO - Processing text 4: Addressing this issue requires a collective effort, emphasizing the importance of compassion, understanding, and proactive support for those affected
+2024-07-08 17:09:56 - INFO - Converting text to audio...
+2024-07-08 17:09:56 - INFO - Audio duration: 9.86
+2024-07-08 17:09:56 - INFO - Getting keywords from text...
+2024-07-08 17:09:56 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:09:56 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:09:59 - INFO - Keywords: [('compassion', 0.5441), ('support', 0.3444), ('collective', 0.3239), ('effort', 0.323), ('affected', 0.2505)]
+2024-07-08 17:10:11 - INFO - Images: ['./images/compassion_0.jpg', './images/compassion_1.jpg', './images/compassion_2.jpg']
+2024-07-08 17:10:11 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 17:10:13 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 17:10:13 - INFO - Deleted: video_1.mp4
+2024-07-08 17:10:13 - INFO - Deleted: video_2.mp4
+2024-07-08 17:10:13 - INFO - Deleted: video_3.mp4
+2024-07-08 17:10:13 - INFO - Deleted: video_4.mp4
+2024-07-08 17:10:14 - INFO - All audios merged into: audio\combined_audio.mp3
+2024-07-08 17:10:14 - INFO - Deleted: audio\Addressing--149.mp3
+2024-07-08 17:10:14 - INFO - Deleted: audio\Personalit--164.mp3
+2024-07-08 17:10:14 - INFO - Deleted: audio\Through th--195.mp3
+2024-07-08 17:10:14 - INFO - Deleted: audio\Understand--120.mp3
+2024-07-08 17:13:47 - INFO - Logging is configured.
+2024-07-08 17:13:47 - INFO - Logging is configured.
+2024-07-08 17:13:47 - INFO - Processing text 1: The Rise of Nepal Cricket: A Journey of Passion and Perseverance
+
+    Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:13:48 - INFO - Converting text to audio...
+2024-07-08 17:13:48 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:13:48 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:13:49 - INFO - Audio duration: 14.2
+2024-07-08 17:13:49 - INFO - Getting keywords from text...
+2024-07-08 17:13:49 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:13:49 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:14:23 - INFO - Logging is configured.
+2024-07-08 17:14:23 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:14:23 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:14:27 - INFO - Logging is configured.
+2024-07-08 17:14:27 - INFO - Processing text 1: The Rise of Nepal Cricket: A Journey of Passion and Perseverance
+
+    Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:14:28 - INFO - Converting text to audio...
+2024-07-08 17:14:28 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:14:28 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:14:28 - INFO - Audio duration: 14.2
+2024-07-08 17:14:28 - INFO - Getting keywords from text...
+2024-07-08 17:14:29 - INFO - Keywords: [('nepal', 0.6508), ('himalayas', 0.5877), ('cricket', 0.4864), ('landscapes', 0.3102), ('heritage', 0.288)]
+2024-07-08 17:14:58 - INFO - Logging is configured.
+2024-07-08 17:14:58 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:14:58 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:15:01 - INFO - Logging is configured.
+2024-07-08 17:15:01 - INFO - Processing text 1: The Rise of Nepal Cricket: A Journey of Passion and Perseverance
+
+    Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:15:02 - INFO - Converting text to audio...
+2024-07-08 17:15:02 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:15:02 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:15:03 - INFO - Audio duration: 14.2
+2024-07-08 17:15:03 - INFO - Getting keywords from text...
+2024-07-08 17:15:04 - INFO - Keywords: [('nepal', 0.6508), ('himalayas', 0.5877), ('cricket', 0.4864), ('landscapes', 0.3102), ('heritage', 0.288)]
+2024-07-08 17:15:29 - INFO - Logging is configured.
+2024-07-08 17:15:29 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:15:29 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:15:33 - INFO - Logging is configured.
+2024-07-08 17:15:33 - INFO - Processing text 1: The Rise of Nepal Cricket: A Journey of Passion and Perseverance
+
+    Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:15:34 - INFO - Converting text to audio...
+2024-07-08 17:15:34 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:15:34 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:15:35 - INFO - Audio duration: 14.2
+2024-07-08 17:15:35 - INFO - Getting keywords from text...
+2024-07-08 17:15:36 - INFO - Keywords: [('nepal', 0.6508), ('himalayas', 0.5877), ('cricket', 0.4864), ('landscapes', 0.3102), ('heritage', 0.288)]
+2024-07-08 17:15:36 - INFO - Mean chance: 0.46462
+2024-07-08 17:15:36 - INFO - keywords: ['nepal', 'himalayas', 'cricket']
+2024-07-08 17:16:03 - INFO - Images: ['./images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/himalayas_0.jpg', './images/himalayas_1.jpg', './images/himalayas_2.jpg', './images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg']
+2024-07-08 17:16:04 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 17:16:04 - INFO - Processing text 2: In recent years, however, it has also gained recognition in the world of cricket
+2024-07-08 17:16:05 - INFO - Converting text to audio...
+2024-07-08 17:16:05 - INFO - Audio duration: 6.47
+2024-07-08 17:16:05 - INFO - Getting keywords from text...
+2024-07-08 17:16:05 - INFO - Keywords: [('cricket', 0.6313), ('recognition', 0.2187), ('recent', 0.1758), ('world', 0.1363), ('gained', 0.135)]
+2024-07-08 17:16:05 - INFO - Mean chance: 0.25942
+2024-07-08 17:16:05 - INFO - keywords: ['cricket']
+2024-07-08 17:16:20 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg']
+2024-07-08 17:16:20 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 17:16:20 - INFO - Processing text 3: The journey of Nepal Cricket is a testament to the spirit of resilience and passion that defines this nation
+2024-07-08 17:16:21 - INFO - Converting text to audio...
+2024-07-08 17:16:21 - INFO - Audio duration: 6.8
+2024-07-08 17:16:21 - INFO - Getting keywords from text...
+2024-07-08 17:16:21 - INFO - Keywords: [('nepal', 0.5077), ('cricket', 0.4665), ('resilience', 0.435), ('passion', 0.3082), ('nation', 0.2681)]
+2024-07-08 17:16:21 - INFO - Mean chance: 0.3971
+2024-07-08 17:16:21 - INFO - keywords: ['nepal', 'cricket', 'resilience']
+2024-07-08 17:16:53 - INFO - Images: ['./images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/resilience_0.jpg', './images/resilience_1.jpg', './images/resilience_2.jpg']
+2024-07-08 17:16:54 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 17:16:54 - INFO - Processing text 4: Cricket in Nepal began its journey in the early 20th century, introduced by the ruling Rana dynasty who were influenced by the British
+2024-07-08 17:16:55 - INFO - Converting text to audio...
+2024-07-08 17:16:55 - INFO - Audio duration: 9.17
+2024-07-08 17:16:55 - INFO - Getting keywords from text...
+2024-07-08 17:16:55 - INFO - Keywords: [('cricket', 0.3939), ('nepal', 0.3922), ('rana', 0.3559), ('dynasty', 0.2473), ('century', 0.1835)]
+2024-07-08 17:16:55 - INFO - Mean chance: 0.31456
+2024-07-08 17:16:55 - INFO - keywords: ['cricket', 'nepal', 'rana']
+2024-07-08 17:17:26 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/rana_0.jpg', './images/rana_1.jpg', './images/rana_2.jpg']
+2024-07-08 17:17:26 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 17:17:26 - INFO - Processing text 5: However, it wasn't until the 1990s that cricket started gaining significant traction among the Nepali populace
+2024-07-08 17:17:27 - INFO - Converting text to audio...
+2024-07-08 17:17:27 - INFO - Audio duration: 8.37
+2024-07-08 17:17:27 - INFO - Getting keywords from text...
+2024-07-08 17:17:28 - INFO - Keywords: [('cricket', 0.486), ('nepali', 0.4751), ('1990s', 0.3111), ('traction', 0.1341), ('significant', 0.1326)]
+2024-07-08 17:17:28 - INFO - Mean chance: 0.30778
+2024-07-08 17:17:28 - INFO - keywords: ['cricket', 'nepali', '1990s']
+2024-07-08 17:17:59 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/nepali_0.jpg', './images/nepali_1.jpg', './images/nepali_2.jpg', './images/1990s_0.jpg', './images/1990s_1.jpg', './images/1990s_2.jpg']
+2024-07-08 17:17:59 - INFO - Video saved to: output_videos\video_5.mp4
+2024-07-08 17:17:59 - INFO - Processing text 6: The establishment of the Cricket Association of Nepal (CAN) in 1946 and its affiliation with the International Cricket Council (ICC) in 1996 marked the beginning of Nepal's formal cricketing journey
+2024-07-08 17:18:00 - INFO - Converting text to audio...
+2024-07-08 17:18:01 - INFO - Audio duration: 16.25
+2024-07-08 17:18:01 - INFO - Getting keywords from text...
+2024-07-08 17:18:01 - INFO - Keywords: [('cricket', 0.5036), ('nepal', 0.4945), ('cricketing', 0.432), ('icc', 0.4293), ('affiliation', 0.2363)]
+2024-07-08 17:18:01 - INFO - Mean chance: 0.41914
+2024-07-08 17:18:01 - INFO - keywords: ['cricket', 'nepal', 'cricketing', 'icc']
+2024-07-08 17:18:32 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/cricketing_0.jpg', './images/cricketing_1.jpg', './images/cricketing_2.jpg', './images/icc_0.jpg', './images/icc_1.jpg', './images/icc_2.jpg']
+2024-07-08 17:18:33 - INFO - Video saved to: output_videos\video_6.mp4
+2024-07-08 17:18:33 - INFO - Processing text 7: The turning point for Nepal Cricket came in the early 2000s with the rise of the youth team
+2024-07-08 17:18:34 - INFO - Converting text to audio...
+2024-07-08 17:18:34 - INFO - Audio duration: 6.27
+2024-07-08 17:18:34 - INFO - Getting keywords from text...
+2024-07-08 17:18:34 - INFO - Keywords: [('cricket', 0.469), ('nepal', 0.4584), ('youth', 0.3565), ('2000s', 0.3354), ('turning', 0.2012)]
+2024-07-08 17:18:34 - INFO - Mean chance: 0.3641
+2024-07-08 17:18:34 - INFO - keywords: ['cricket', 'nepal']
+2024-07-08 17:18:52 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg']
+2024-07-08 17:18:52 - INFO - Video saved to: output_videos\video_7.mp4
+2024-07-08 17:18:52 - INFO - Processing text 8: The Under-19 team's impressive performances in the ICC Under-19 World Cups, particularly their stunning victories over established cricketing nations, brought them into the limelight
+2024-07-08 17:18:53 - INFO - Converting text to audio...
+2024-07-08 17:18:54 - INFO - Audio duration: 12.99
+2024-07-08 17:18:54 - INFO - Getting keywords from text...
+2024-07-08 17:18:54 - INFO - Keywords: [('icc', 0.458), ('performances', 0.3377), ('cricketing', 0.3262), ('victories', 0.2792), ('nations', 0.2558)]
+2024-07-08 17:18:54 - INFO - Mean chance: 0.33138
+2024-07-08 17:18:54 - INFO - keywords: ['icc', 'performances']
+2024-07-08 17:19:04 - INFO - Images: ['./images/icc_0.jpg', './images/icc_1.jpg', './images/icc_2.jpg', './images/performances_0.jpg', './images/performances_1.jpg', './images/performances_2.jpg']
+2024-07-08 17:19:05 - INFO - Video saved to: output_videos\video_8.mp4
+2024-07-08 17:19:05 - INFO - Processing text 9: This success laid the foundation for cricket's growing popularity in the country
+2024-07-08 17:19:06 - INFO - Converting text to audio...
+2024-07-08 17:19:06 - INFO - Audio duration: 5.4
+2024-07-08 17:19:06 - INFO - Getting keywords from text...
+2024-07-08 17:19:06 - INFO - Keywords: [('cricket', 0.5753), ('popularity', 0.3829), ('success', 0.2536), ('growing', 0.1862), ('country', 0.1788)]
+2024-07-08 17:19:06 - INFO - Mean chance: 0.31536000000000003
+2024-07-08 17:19:06 - INFO - keywords: ['cricket', 'popularity']
+2024-07-08 17:19:15 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/popularity_0.jpg', './images/popularity_1.jpg', './images/popularity_2.jpg']
+2024-07-08 17:19:15 - INFO - Video saved to: output_videos\video_9.mp4
+2024-07-08 17:19:19 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_1.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_2.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_3.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_4.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_5.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_6.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_7.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_8.mp4
+2024-07-08 17:19:19 - INFO - Deleted: video_9.mp4
+2024-07-08 17:19:19 - INFO - Processing text 1: The Rise of Nepal Cricket: A Journey of Passion and Perseverance
+
+    Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:19:20 - INFO - Converting text to audio...
+2024-07-08 17:19:20 - INFO - Audio duration: 14.2
+2024-07-08 17:19:20 - INFO - Getting keywords from text...
+2024-07-08 17:19:20 - INFO - Keywords: [('nepal', 0.6508), ('himalayas', 0.5877), ('cricket', 0.4864), ('landscapes', 0.3102), ('heritage', 0.288)]
+2024-07-08 17:19:20 - INFO - Mean chance: 0.46462
+2024-07-08 17:19:20 - INFO - keywords: ['nepal', 'himalayas', 'cricket']
+2024-07-08 17:19:40 - INFO - Images: ['./images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/himalayas_0.jpg', './images/himalayas_1.jpg', './images/himalayas_2.jpg', './images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg']
+2024-07-08 17:19:41 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 17:19:41 - INFO - Processing text 2: In recent years, however, it has also gained recognition in the world of cricket
+2024-07-08 17:19:42 - INFO - Converting text to audio...
+2024-07-08 17:19:42 - INFO - Audio duration: 6.47
+2024-07-08 17:19:42 - INFO - Getting keywords from text...
+2024-07-08 17:19:42 - INFO - Keywords: [('cricket', 0.6313), ('recognition', 0.2187), ('recent', 0.1758), ('world', 0.1363), ('gained', 0.135)]
+2024-07-08 17:19:42 - INFO - Mean chance: 0.25942
+2024-07-08 17:19:42 - INFO - keywords: ['cricket']
+2024-07-08 17:19:51 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg']
+2024-07-08 17:19:51 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 17:19:51 - INFO - Processing text 3: The journey of Nepal Cricket is a testament to the spirit of resilience and passion that defines this nation
+2024-07-08 17:19:52 - INFO - Converting text to audio...
+2024-07-08 17:19:53 - INFO - Audio duration: 6.8
+2024-07-08 17:19:53 - INFO - Getting keywords from text...
+2024-07-08 17:19:53 - INFO - Keywords: [('nepal', 0.5077), ('cricket', 0.4665), ('resilience', 0.435), ('passion', 0.3082), ('nation', 0.2681)]
+2024-07-08 17:19:53 - INFO - Mean chance: 0.3971
+2024-07-08 17:19:53 - INFO - keywords: ['nepal', 'cricket', 'resilience']
+2024-07-08 17:20:17 - WARNING - C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\PIL\Image.py:3176: DecompressionBombWarning: Image size (96000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+
+2024-07-08 17:20:20 - INFO - Images: ['./images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/resilience_0.jpg', './images/resilience_1.jpg', './images/resilience_2.jpg']
+2024-07-08 17:20:21 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 17:20:21 - INFO - Processing text 4: Cricket in Nepal began its journey in the early 20th century, introduced by the ruling Rana dynasty who were influenced by the British
+2024-07-08 17:20:22 - INFO - Converting text to audio...
+2024-07-08 17:20:22 - INFO - Audio duration: 9.17
+2024-07-08 17:20:22 - INFO - Getting keywords from text...
+2024-07-08 17:20:22 - INFO - Keywords: [('cricket', 0.3939), ('nepal', 0.3922), ('rana', 0.3559), ('dynasty', 0.2473), ('century', 0.1835)]
+2024-07-08 17:20:22 - INFO - Mean chance: 0.31456
+2024-07-08 17:20:22 - INFO - keywords: ['cricket', 'nepal', 'rana']
+2024-07-08 17:20:51 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/nepal_0.jpg', './images/nepal_1.jpg', './images/nepal_2.jpg', './images/rana_0.jpg', './images/rana_1.jpg', './images/rana_2.jpg']
+2024-07-08 17:20:52 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 17:20:52 - INFO - Processing text 5: However, it wasn't until the 1990s that cricket started gaining significant traction among the Nepali populace
+2024-07-08 17:20:53 - INFO - Converting text to audio...
+2024-07-08 17:20:53 - INFO - Audio duration: 8.37
+2024-07-08 17:20:53 - INFO - Getting keywords from text...
+2024-07-08 17:20:53 - INFO - Keywords: [('cricket', 0.486), ('nepali', 0.4751), ('1990s', 0.3111), ('traction', 0.1341), ('significant', 0.1326)]
+2024-07-08 17:20:53 - INFO - Mean chance: 0.30778
+2024-07-08 17:20:53 - INFO - keywords: ['cricket', 'nepali', '1990s']
+2024-07-08 17:21:03 - INFO - Images: ['./images/cricket_0.jpg', './images/cricket_1.jpg', './images/cricket_2.jpg', './images/nepali_0.jpg', './images/nepali_1.jpg', './images/nepali_2.jpg']
+2024-07-08 17:21:04 - INFO - Video saved to: output_videos\video_5.mp4
+2024-07-08 17:21:04 - INFO - Processing text 6: The establishment of the Cricket Association of Nepal (CAN) in 1946 and its affiliation with the International Cricket Council (ICC) in 1996 marked the beginning of Nepal's formal cricketing journey
+2024-07-08 17:21:05 - INFO - Converting text to audio...
+2024-07-08 17:21:05 - INFO - Audio duration: 16.25
+2024-07-08 17:21:05 - INFO - Getting keywords from text...
+2024-07-08 17:21:05 - INFO - Keywords: [('cricket', 0.5036), ('nepal', 0.4945), ('cricketing', 0.432), ('icc', 0.4293), ('affiliation', 0.2363)]
+2024-07-08 17:21:05 - INFO - Mean chance: 0.41914
+2024-07-08 17:21:05 - INFO - keywords: ['cricket', 'nepal', 'cricketing', 'icc']
+2024-07-08 17:21:07 - INFO - Images: []
+2024-07-08 17:27:23 - INFO - Logging is configured.
+2024-07-08 17:27:23 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:27:23 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:27:26 - INFO - Logging is configured.
+2024-07-08 17:27:26 - INFO - Processing text 1: Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:27:27 - INFO - Converting text to audio...
+2024-07-08 17:27:27 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:27:27 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:27:28 - INFO - Audio duration: 8.92
+2024-07-08 17:27:28 - INFO - Getting keywords from text...
+2024-07-08 17:27:28 - INFO - Keywords: [('nepal', 0.6444), ('himalayas', 0.6218), ('landscapes', 0.3747), ('breathtaking', 0.2671), ('heritage', 0.2634)]
+2024-07-08 17:27:28 - INFO - Mean chance: 0.43428
+2024-07-08 17:27:28 - INFO - keywords: ['nepal', 'himalayas']
+2024-07-08 17:27:30 - INFO - Images: []
+2024-07-08 17:27:30 - ERROR - No valid clips created from images.
+2024-07-08 17:36:26 - INFO - Logging is configured.
+2024-07-08 17:36:26 - INFO - Use pytorch device_name: cpu
+2024-07-08 17:36:26 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-07-08 17:36:29 - INFO - Logging is configured.
+2024-07-08 17:36:29 - INFO - Processing text 1: The Rise of Nepal Cricket: A Journey of Passion and Perseverance
+
+Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage
+2024-07-08 17:36:29 - INFO - Getting keywords from text...
+2024-07-08 17:36:30 - INFO - Mean chance: 0.46462
+2024-07-08 17:36:31 - INFO - Converting text to audio...
+2024-07-08 17:36:31 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kyush\\Desktop\\t2v-test1\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-08 17:36:31 - INFO - Using writeable comtypes cache directory: 'C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\comtypes\gen'
+2024-07-08 17:36:31 - INFO - Audio duration: 14.2
+2024-07-08 17:36:31 - INFO - Keywords: ['nepal', 'himalayas', 'cricket']
+2024-07-08 17:36:31 - INFO - Getting images for keyword: nepal
+2024-07-08 17:36:32 - INFO - 20 images found
+2024-07-08 17:36:34 - INFO - Getting images for keyword: himalayas
+2024-07-08 17:36:34 - INFO - 20 images found
+2024-07-08 17:36:37 - INFO - Getting images for keyword: cricket
+2024-07-08 17:36:37 - INFO - 20 images found
+2024-07-08 17:36:39 - INFO - Images: ['./images/nepal0.jpg', './images/nepal1.jpg', './images/nepal2.jpg', './images/himalayas0.jpg', './images/himalayas1.jpg', './images/himalayas2.jpg', './images/cricket0.jpg', './images/cricket1.jpg', './images/cricket2.jpg']
+2024-07-08 17:36:40 - INFO - Video saved to: output_videos\video_1.mp4
+2024-07-08 17:36:40 - INFO - Processing text 2: In recent years, however, it has also gained recognition in the world of cricket
+2024-07-08 17:36:40 - INFO - Getting keywords from text...
+2024-07-08 17:36:40 - INFO - Mean chance: 0.25942
+2024-07-08 17:36:41 - INFO - Converting text to audio...
+2024-07-08 17:36:41 - INFO - Audio duration: 6.47
+2024-07-08 17:36:41 - INFO - Keywords: ['cricket']
+2024-07-08 17:36:41 - INFO - Getting images for keyword: cricket
+2024-07-08 17:36:42 - INFO - 20 images found
+2024-07-08 17:36:44 - INFO - Images: ['./images/cricket0.jpg', './images/cricket1.jpg', './images/cricket2.jpg']
+2024-07-08 17:36:44 - INFO - Video saved to: output_videos\video_2.mp4
+2024-07-08 17:36:44 - INFO - Processing text 3: The journey of Nepal Cricket is a testament to the spirit of resilience and passion that defines this nation
+2024-07-08 17:36:44 - INFO - Getting keywords from text...
+2024-07-08 17:36:44 - INFO - Mean chance: 0.3971
+2024-07-08 17:36:45 - INFO - Converting text to audio...
+2024-07-08 17:36:45 - INFO - Audio duration: 6.8
+2024-07-08 17:36:45 - INFO - Keywords: ['nepal', 'cricket', 'resilience']
+2024-07-08 17:36:45 - INFO - Getting images for keyword: nepal
+2024-07-08 17:36:46 - INFO - 20 images found
+2024-07-08 17:36:48 - INFO - Getting images for keyword: cricket
+2024-07-08 17:36:49 - INFO - 20 images found
+2024-07-08 17:36:50 - INFO - Getting images for keyword: resilience
+2024-07-08 17:36:51 - INFO - 20 images found
+2024-07-08 17:36:54 - INFO - Images: ['./images/nepal0.jpg', './images/nepal1.jpg', './images/nepal2.jpg', './images/cricket0.jpg', './images/cricket1.jpg', './images/cricket2.jpg', './images/resilience0.jpg', './images/resilience1.jpg', './images/resilience2.jpg']
+2024-07-08 17:36:54 - INFO - Video saved to: output_videos\video_3.mp4
+2024-07-08 17:36:54 - INFO - Processing text 4: Cricket in Nepal began its journey in the early 20th century, introduced by the ruling Rana dynasty who were influenced by the British
+2024-07-08 17:36:54 - INFO - Getting keywords from text...
+2024-07-08 17:36:54 - INFO - Mean chance: 0.31456
+2024-07-08 17:36:55 - INFO - Converting text to audio...
+2024-07-08 17:36:56 - INFO - Audio duration: 9.17
+2024-07-08 17:36:56 - INFO - Keywords: ['cricket', 'nepal', 'rana']
+2024-07-08 17:36:56 - INFO - Getting images for keyword: cricket
+2024-07-08 17:36:56 - INFO - 20 images found
+2024-07-08 17:36:58 - INFO - Getting images for keyword: nepal
+2024-07-08 17:36:58 - INFO - 20 images found
+2024-07-08 17:37:00 - INFO - Getting images for keyword: rana
+2024-07-08 17:37:01 - INFO - 20 images found
+2024-07-08 17:37:04 - INFO - Images: ['./images/cricket0.jpg', './images/cricket1.jpg', './images/cricket2.jpg', './images/nepal0.jpg', './images/nepal1.jpg', './images/nepal2.jpg', './images/rana0.jpg', './images/rana1.jpg', './images/rana2.jpg']
+2024-07-08 17:37:04 - INFO - Video saved to: output_videos\video_4.mp4
+2024-07-08 17:37:04 - INFO - Processing text 5: However, it wasn't until the 1990s that cricket started gaining significant traction among the Nepali populace
+2024-07-08 17:37:04 - INFO - Getting keywords from text...
+2024-07-08 17:37:04 - INFO - Mean chance: 0.30778
+2024-07-08 17:37:05 - INFO - Converting text to audio...
+2024-07-08 17:37:06 - INFO - Audio duration: 8.37
+2024-07-08 17:37:06 - INFO - Keywords: ['cricket', 'nepali', '1990s']
+2024-07-08 17:37:06 - INFO - Getting images for keyword: cricket
+2024-07-08 17:37:07 - INFO - 20 images found
+2024-07-08 17:37:08 - WARNING - C:\Users\kyush\Desktop\t2v-test1\env\lib\site-packages\PIL\Image.py:992: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+
+2024-07-08 17:37:09 - INFO - Getting images for keyword: nepali
+2024-07-08 17:37:10 - INFO - 20 images found
+2024-07-08 17:37:12 - INFO - Getting images for keyword: 1990s
+2024-07-08 17:37:12 - INFO - 20 images found
+2024-07-08 17:37:16 - INFO - Images: ['./images/cricket0.jpg', './images/cricket1.jpg', './images/cricket2.jpg', './images/nepali0.jpg', './images/nepali1.jpg', './images/nepali2.jpg', './images/1990s0.jpg', './images/1990s1.jpg', './images/1990s2.jpg']
+2024-07-08 17:37:17 - INFO - Video saved to: output_videos\video_5.mp4
+2024-07-08 17:37:17 - INFO - Processing text 6: The establishment of the Cricket Association of Nepal (CAN) in 1946 and its affiliation with the International Cricket Council (ICC) in 1996 marked the beginning of Nepal's formal cricketing journey
+2024-07-08 17:37:17 - INFO - Getting keywords from text...
+2024-07-08 17:37:17 - INFO - Mean chance: 0.41914
+2024-07-08 17:37:18 - INFO - Converting text to audio...
+2024-07-08 17:37:18 - INFO - Audio duration: 16.25
+2024-07-08 17:37:18 - INFO - Keywords: ['cricket', 'nepal', 'cricketing', 'icc']
+2024-07-08 17:37:18 - INFO - Getting images for keyword: cricket
+2024-07-08 17:37:18 - INFO - 20 images found
+2024-07-08 17:37:21 - INFO - Getting images for keyword: nepal
+2024-07-08 17:37:21 - INFO - 20 images found
+2024-07-08 17:37:23 - INFO - Getting images for keyword: cricketing
+2024-07-08 17:37:23 - INFO - 20 images found
+2024-07-08 17:37:25 - INFO - Getting images for keyword: icc
+2024-07-08 17:37:26 - INFO - 16 images found
+2024-07-08 17:37:29 - INFO - Images: ['./images/cricket0.jpg', './images/cricket1.jpg', './images/cricket2.jpg', './images/nepal0.jpg', './images/nepal1.jpg', './images/nepal2.jpg', './images/cricketing0.jpg', './images/cricketing1.jpg', './images/cricketing2.jpg', './images/icc0.jpg', './images/icc1.jpg', './images/icc2.jpg']
+2024-07-08 17:37:29 - INFO - Video saved to: output_videos\video_6.mp4
+2024-07-08 17:37:32 - INFO - All clips merged into: output_videos\final_video.mp4
+2024-07-08 17:37:32 - INFO - Deleted: video_1.mp4
+2024-07-08 17:37:32 - INFO - Deleted: video_2.mp4
+2024-07-08 17:37:32 - INFO - Deleted: video_3.mp4
+2024-07-08 17:37:32 - INFO - Deleted: video_4.mp4
+2024-07-08 17:37:32 - INFO - Deleted: video_5.mp4
+2024-07-08 17:37:32 - INFO - Deleted: video_6.mp4
+2024-07-08 17:37:33 - INFO - All audios merged into: audio\combined_audio.mp3
+2024-07-08 17:37:33 - INFO - Deleted: audio\Cricket in--134.mp3
+2024-07-08 17:37:33 - INFO - Deleted: audio\However, i--110.mp3
+2024-07-08 17:37:33 - INFO - Deleted: audio\In recent --80.mp3
+2024-07-08 17:37:33 - INFO - Deleted: audio\The Rise o--189.mp3
+2024-07-08 17:37:33 - INFO - Deleted: audio\The establ--198.mp3
+2024-07-08 17:37:33 - INFO - Deleted: audio\The journe--108.mp3
