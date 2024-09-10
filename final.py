@@ -109,13 +109,7 @@ def create_videos_from_article(article_text, output_dir="output_videos"):
                     logging.info(f"Error while deleting {file}: {e}")
 
 if __name__ == "__main__":
-    # ARTICLE = """Personality deficiency is a complex and multifaceted issue that affects various aspects of an individual's life, from personal relationships to professional success. Understanding its causes, manifestations, and impacts is crucial for developing empathy and effective support mechanisms. Through therapeutic interventions, social support, and personal development, individuals can overcome the challenges associated with personality deficiencies and lead fulfilling, meaningful lives. Addressing this issue requires a collective effort, emphasizing the importance of compassion, understanding, and proactive support for those affected. """
-    ARTICLE = """The Rise of Nepal Cricket: A Journey of Passion and Perseverance
-
-Nepal, a nation nestled in the lap of the Himalayas, is renowned for its breathtaking landscapes and rich cultural heritage. In recent years, however, it has also gained recognition in the world of cricket. The journey of Nepal Cricket is a testament to the spirit of resilience and passion that defines this nation.
-
-Cricket in Nepal began its journey in the early 20th century, introduced by the ruling Rana dynasty who were influenced by the British. However, it wasn't until the 1990s that cricket started gaining significant traction among the Nepali populace. The establishment of the Cricket Association of Nepal (CAN) in 1946 and its affiliation with the International Cricket Council (ICC) in 1996 marked the beginning of Nepal's formal cricketing journey.
-"""
+    ARTICLE = """Personality deficiency is a complex and multifaceted issue that affects various aspects of an individual's life, from personal relationships to professional success. Understanding its causes, manifestations, and impacts is crucial for developing empathy and effective support mechanisms. Through therapeutic interventions, social support, and personal development, individuals can overcome the challenges associated with personality deficiencies and lead fulfilling, meaningful lives. Addressing this issue requires a collective effort, emphasizing the importance of compassion, understanding, and proactive support for those affected. """
     input_folder = "audio"
     output_file = "combined_audio.mp3"
     create_videos_from_article(ARTICLE)
